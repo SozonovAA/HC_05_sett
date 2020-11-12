@@ -1,0 +1,5 @@
+AT+ORGL
+AT+NAME:"Желаемое_имя"
+AT+ ROLE:0
+AT+RMAAD
+AT+RESET
